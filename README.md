@@ -53,16 +53,13 @@ Navigate into the project directory:
   
 or
 
-   ```bash
    yarn install
 
 3. Run the app:  
-   ```bash
    npm start
   
 or
 
-   ```bash
    expo start
 
 ## 🧮 How CGPA Is Calculated
