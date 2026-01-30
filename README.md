@@ -43,25 +43,27 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/react-native-cgpa-calculator.git
 Navigate into the project directory:
-
-cd react-native-cgpa-calculator
+   ```bash
+   cd react-native-cgpa-calculator
 
 
 2. Install dependencies:  
-
-npm install
+   ```bash
+   npm install
   
 or
 
-yarn install
+   ```bash
+   yarn install
 
 3. Run the app:  
-
-npm start
+   ```bash
+   npm start
   
 or
 
-expo start
+   ```bash
+   expo start
 
 ## 🧮 How CGPA Is Calculated
 
