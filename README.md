@@ -43,12 +43,10 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/react-native-cgpa-calculator.git
 Navigate into the project directory:
-   ```bash
    cd react-native-cgpa-calculator
 
 
 2. Install dependencies:  
-   ```bash
    npm install
   
 or
